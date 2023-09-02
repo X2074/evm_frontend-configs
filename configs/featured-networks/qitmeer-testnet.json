@@ -8,7 +8,7 @@
 	},
 	{
 		"title": "Qitmeer Testnet",
-		"url": "http://test-qng.qitmeer.io/",
+		"url": "https://test-qng.qitmeer.io/",
 		"group": "Testnets",
 		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
@@ -16,7 +16,7 @@
 	},
 	{
 		"title": "AMANA",
-		"url": "http://amana.qitmeer.io/",
+		"url": "https://amana.qitmeer.io/",
 		"group": "Other",
 		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
 		"invertIconInDarkMode": true
