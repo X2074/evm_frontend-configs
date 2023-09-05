@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://qitmeernetwork.gitbook.io/docs/qitmeer-network"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/Qitmeer"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Qitmeer Website",
+        "url": "https://www.qitmeer.io/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/QitmeerNetwork"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/xzGSmrzXTM"
+      },
+      {
+        "text": "Telegram",
+        "url": "=https://t.me/qitmeernetwork"
+      }
+    ]
+  },
+  {
+    "title": "Ecology",
+    "links": [
+      {
+        "text": "DimAI",
+        "url": "https://www.dimai.ai/"
+      }
+    ]
+  }
+]
