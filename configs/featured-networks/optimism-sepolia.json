@@ -2,14 +2,14 @@
 		"title": "Optimism",
 		"url": "https://optimism.blockscout.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
 		"title": "Optimism Sepolia",
 		"url": "https://optimism-sepolia.blockscout.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
+		"isActive": true
 	},
 	{
 		"title": "Optimism Goerli",
