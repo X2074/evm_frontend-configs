@@ -6,11 +6,12 @@
     "logo": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/marketplace-logos/dimai.png",
     "categories": [
       "DeAI",
-      "NFT"
+      "NFT",
+      "Tool"
     ],
-    "shortDescription": "DimAI: Change the Future! Ignite Creativity with the AI Engine!",
+    "shortDescription": "Unlock AI Creative Value with DimAI",
     "site": "https://www.dimai.ai/",
-    "description": "DimAI: Change the Future! Ignite Creativity with the AI Engine!",
+    "description": "Unlock AI Creative Value with DimAI",
     "external": true,
     "url": "https://www.dimai.ai/"
   }
