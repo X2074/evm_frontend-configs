@@ -1,0 +1,16 @@
+[
+  {
+    "author": "Uniswap",
+    "id": "uniswap",
+    "title": "Uniswap",
+    "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
+    "categories": [
+      "DeFi"
+    ],
+    "shortDescription": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+    "site": "https://app.uniswap.org/",
+    "description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+    "external": false,
+    "url": "https://app.uniswap.org/"
+  }
+]
