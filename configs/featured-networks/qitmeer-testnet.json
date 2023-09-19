@@ -11,14 +11,14 @@
 		"url": "https://test-qng.qitmeer.io/",
 		"group": "Testnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
+		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
 		"invertIconInDarkMode": true
 	},
 	{
 		"title": "AMANA",
 		"url": "https://amana.qitmeer.io/",
 		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
+		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/amana-icon.svg",
 		"invertIconInDarkMode": true
 	}
 ]

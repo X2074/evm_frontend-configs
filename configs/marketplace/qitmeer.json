@@ -1,0 +1,18 @@
+[
+  {
+    "author": "DimAI",
+    "id": "dimai",
+    "title": "DimAI",
+    "logo": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/marketplace-logos/dimai.png",
+    "categories": [
+      "DeAI",
+      "NFT",
+      "Tool"
+    ],
+    "shortDescription": "Unlock AI Creative Value with DimAI",
+    "site": "https://www.dimai.ai/",
+    "description": "Unlock AI Creative Value with DimAI",
+    "external": true,
+    "url": "https://www.dimai.ai/"
+  }
+]
