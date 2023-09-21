@@ -3,7 +3,7 @@
 		"title": "Qitmeer",
 		"url": "https://qng.qitmeer.io/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
 		"invertIconInDarkMode": true
 	},
 	{
@@ -11,7 +11,7 @@
 		"url": "https://testnet-qng.qitmeer.io/",
 		"group": "Testnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
 		"invertIconInDarkMode": true
 	}
 ]
