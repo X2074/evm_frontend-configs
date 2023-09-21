@@ -4,21 +4,14 @@
 		"url": "https://qng.qitmeer.io/",
 		"group": "Mainnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/jasonzysun/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
 		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Qitmeer Testnet",
-		"url": "https://test-qng.qitmeer.io/",
+		"url": "https://testnet-qng.qitmeer.io/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/jasonzysun/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "AMANA",
-		"url": "https://amana.qitmeer.io/",
-		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/jasonzysun/evm_frontend-configs/main/configs/network-icons/amana-icon.svg",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
 		"invertIconInDarkMode": true
 	}
 ]
