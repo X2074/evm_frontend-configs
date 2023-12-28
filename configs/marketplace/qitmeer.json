@@ -14,5 +14,19 @@
     "description": "Unlock AI Creative Value with DimAI",
     "external": true,
     "url": "https://www.dimai.ai/"
+  },
+  {
+    "author": "Woowow",
+    "id": "woowow",
+    "title": "Woowow",
+    "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/woowow.png",
+    "categories": [
+      "NFT"
+    ],
+    "shortDescription": "Create, Trade, Collect",
+    "site": "https://www.woowow.io/",
+    "description": "Create, Trade, Collect: Woowow Leads the NFT Innovation Road",
+    "external": true,
+    "url": "https://www.woowow.io/"
   }
 ]

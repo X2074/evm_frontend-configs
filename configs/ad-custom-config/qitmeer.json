@@ -5,6 +5,12 @@
       "url": "https://www.dimai.ai/",
       "desktopImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/desktop/dimai-desktop.gif",
       "mobileImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/mobile/dimai-mobile.gif"
+    },
+    {
+      "text": "Create, Trade, Collect: Woowow Leads the NFT Innovation Road",
+      "url": "https://www.woowow.io/",
+      "desktopImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/desktop/woowow-desktop.png",
+      "mobileImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/mobile/woowow-mobile.png"
     }
   ],
   "interval": 60000,
