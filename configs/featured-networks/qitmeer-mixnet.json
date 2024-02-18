@@ -1,0 +1,24 @@
+[
+	{
+		"title": "Qitmeer",
+		"url": "https://qng.qitmeer.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Qitmeer Testnet",
+		"url": "https://testnet-qng.qitmeer.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Qitmeer Mixnet",
+		"url": "https://testnet-qng.qitmeer.io/",
+		"group": "Mixnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-mixnet-icon.svg",
+		"invertIconInDarkMode": true
+	}
+]
