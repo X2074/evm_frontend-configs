@@ -15,7 +15,7 @@
 	},
 	{
 		"title": "Qitmeer Mixnet",
-		"url": "https://testnet-qng.qitmeer.io/",
+		"url": "http://mixnet-qng.qitmeer.io/",
 		"group": "Mixnets",
 		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-mixnet-icon.svg",
