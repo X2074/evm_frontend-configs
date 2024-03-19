@@ -28,5 +28,19 @@
     "description": "Create, Trade, Collect: Woowow Leads the NFT Innovation Road",
     "external": true,
     "url": "https://www.woowow.io/"
+  },
+  {
+    "author": "IceCreamSwap",
+    "id": "IceCreamSwap",
+    "title": "IceCreamSwap",
+    "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/ice_cream_swap.png",
+    "categories": [
+      "DeFi"
+    ],
+    "shortDescription": "Multi-Chain AI powered DEX aggregator",
+    "site": "https://icecreamswap.com/",
+    "description": "AI DEX Aggregator that let's users trade any tokens at the best rations as well as many additional DeFi utilities like DEX, Bridge and LaunchPad.\t",
+    "external": true,
+    "url": "https://icecreamswap.com/swap"
   }
 ]

@@ -11,6 +11,12 @@
       "url": "https://www.woowow.io/",
       "desktopImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/desktop/woowow-desktop.png",
       "mobileImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/mobile/woowow-mobile.png"
+    },
+    {
+      "text": "Multi-Chain AI powered DEX aggregator",
+      "url": "https://icecreamswap.com/swap",
+      "desktopImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/desktop/ice_cream_swap-desktop.png",
+      "mobileImageUrl": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/ad-custom-banners/desktop/ice_cream_swap-mobile.png"
     }
   ],
   "interval": 60000,
