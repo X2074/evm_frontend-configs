@@ -1,7 +1,7 @@
 [
   {
     "author": "DimAI",
-    "id": "dimai",
+    "id": "1_dimai",
     "title": "DimAI",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/dimai.png",
     "categories": [
@@ -17,7 +17,7 @@
   },
   {
     "author": "Woowow",
-    "id": "woowow",
+    "id": "1_woowow",
     "title": "Woowow",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/woowow.png",
     "categories": [
@@ -31,7 +31,7 @@
   },
   {
     "author": "IceCreamSwap",
-    "id": "IceCreamSwap",
+    "id": "2_IceCreamSwap",
     "title": "IceCreamSwap",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/ice_cream_swap.png",
     "categories": [
@@ -45,7 +45,7 @@
   },
   {
     "author": "KAHF",
-    "id": "kahf",
+    "id": "2_kahf",
     "title": "KAHF",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/kahf.png",
     "categories": [
@@ -59,7 +59,7 @@
   },
   {
     "author": "CandySwap",
-    "id": "CandySwap",
+    "id": "2_CandySwap",
     "title": "CandySwap",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/candyswap.png",
     "categories": [
