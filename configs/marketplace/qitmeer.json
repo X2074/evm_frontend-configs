@@ -1,7 +1,7 @@
 [
   {
     "author": "DimAI",
-    "id": "1_dimai",
+    "id": "dimai",
     "title": "DimAI",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/dimai.png",
     "categories": [
@@ -13,11 +13,12 @@
     "site": "https://www.dimai.ai/",
     "description": "Unlock AI Creative Value with DimAI",
     "external": true,
-    "url": "https://www.dimai.ai/"
+    "url": "https://www.dimai.ai/",
+    "priority": "5"
   },
   {
     "author": "Woowow",
-    "id": "1_woowow",
+    "id": "woowow",
     "title": "Woowow",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/woowow.png",
     "categories": [
@@ -27,11 +28,12 @@
     "site": "https://www.woowow.io/",
     "description": "Create, Trade, Collect: Woowow Leads the NFT Innovation Road",
     "external": true,
-    "url": "https://www.woowow.io/"
+    "url": "https://www.woowow.io/",
+    "priority": "5"
   },
   {
     "author": "IceCreamSwap",
-    "id": "2_IceCreamSwap",
+    "id": "IceCreamSwap",
     "title": "IceCreamSwap",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/ice_cream_swap.png",
     "categories": [
@@ -41,11 +43,12 @@
     "site": "https://icecreamswap.com/",
     "description": "AI DEX Aggregator that let's users trade any tokens at the best rations as well as many additional DeFi utilities like DEX, Bridge and LaunchPad.",
     "external": true,
-    "url": "https://icecreamswap.com/swap"
+    "url": "https://icecreamswap.com/swap",
+    "priority": "4"
   },
   {
     "author": "KAHF",
-    "id": "2_kahf",
+    "id": "kahf",
     "title": "KAHF",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/kahf.png",
     "categories": [
@@ -55,11 +58,12 @@
     "site": "https://www.kahf.io/",
     "description": "Kahf wallet is a professional multi-chain wallet.",
     "external": true,
-    "url": "https://www.kahf.io/"
+    "url": "https://www.kahf.io/",
+    "priority": "3"
   },
   {
     "author": "CandySwap",
-    "id": "2_CandySwap",
+    "id": "CandySwap",
     "title": "CandySwap",
     "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/candyswap.png",
     "categories": [
@@ -69,6 +73,7 @@
     "site": "https://candyswap.exchange/",
     "description": "A decentralized swap platform",
     "external": true,
-    "url": "https://candyswap.exchange/"
+    "url": "https://candyswap.exchange/",
+    "priority": "3"
   }
 ]
