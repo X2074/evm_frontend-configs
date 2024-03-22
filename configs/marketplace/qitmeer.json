@@ -39,8 +39,36 @@
     ],
     "shortDescription": "Multi-Chain AI powered DEX aggregator",
     "site": "https://icecreamswap.com/",
-    "description": "AI DEX Aggregator that let's users trade any tokens at the best rations as well as many additional DeFi utilities like DEX, Bridge and LaunchPad.\t",
+    "description": "AI DEX Aggregator that let's users trade any tokens at the best rations as well as many additional DeFi utilities like DEX, Bridge and LaunchPad.",
     "external": true,
     "url": "https://icecreamswap.com/swap"
+  },
+  {
+    "author": "KAHF",
+    "id": "kahf",
+    "title": "KAHF",
+    "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/kahf.png",
+    "categories": [
+      "Wallet"
+    ],
+    "shortDescription": "Kahf wallet is a professional multi-chain wallet.",
+    "site": "https://www.kahf.io/",
+    "description": "Kahf wallet is a professional multi-chain wallet.",
+    "external": true,
+    "url": "https://www.kahf.io/"
+  },
+  {
+    "author": "CandySwap",
+    "id": "CandySwap",
+    "title": "CandySwap",
+    "logo": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/marketplace-logos/candyswap.png",
+    "categories": [
+      "DeFi"
+    ],
+    "shortDescription": "A decentralized swap platform",
+    "site": "https://candyswap.exchange/",
+    "description": "A decentralized swap platform",
+    "external": true,
+    "url": "https://candyswap.exchange/"
   }
 ]
