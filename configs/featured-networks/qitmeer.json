@@ -5,13 +5,13 @@
 		"group": "Mainnets",
 		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-icon.svg",
-		"invertIconInDarkMode": true
+		"invertIconInDarkMode": false
 	},
 	{
 		"title": "Qitmeer Testnet",
 		"url": "https://testnet-qng.qitmeer.io/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/X2074/evm_frontend-configs/main/configs/network-icons/qitmeer-testnet-icon.svg",
-		"invertIconInDarkMode": true
+		"invertIconInDarkMode": false
 	}
 ]
